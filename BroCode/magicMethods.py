@@ -1,0 +1,3 @@
+# Magic methods -> double underscore methods, dunder methods since they let you define, customize how objects behave
+# Automatically called by many of Python's built-in operations
+# used to define behaviour for -> object creation, operator overloading, string representation, iteration...
